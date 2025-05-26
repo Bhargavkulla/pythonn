@@ -18,7 +18,7 @@ spec:
         app: flimg
     spec:
       containers:
-      - image: srikar2610/myimage
+      - image: bhargavakulla/myimage
         name: myimage
         resources: {}
 status: {}
